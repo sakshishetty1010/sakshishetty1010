@@ -1,5 +1,5 @@
 ### Namaste, I'm Sakshi Shetty 👋
-🌱 I’m currently a T.E student at Fr.Conceicao Rodrigues College of Engineering
+🌱 I’m currently a B.E student at Fr.Conceicao Rodrigues College of Engineering
 <!--
 **sakshishetty1010/sakshishetty1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
